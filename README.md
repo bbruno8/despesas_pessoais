@@ -1,4 +1,4 @@
-# depesas_pessoais
+# Despesas Pessoais
 
 A new Flutter project.
 
